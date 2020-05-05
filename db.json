@@ -1,0 +1,37 @@
+[
+  { 
+      "teamid": 1,
+      "name1": "Jurģis Dudelis", 
+      "name2": "Jānis Dudelis", 
+      "team": "Aha", 
+      "group": 34 
+    },
+    {
+      "teamid": 2,
+      "name1": "Edgars Burzulis",
+      "name2": "Kārlis Beka",
+      "team": "Bumbas",
+      "group": 34
+    },
+    {
+      "teamid": 3,
+       "name1": "Dace Kalniņa",
+       "name2": "Linda Zvejniece",
+       "team": "Meičas",
+       "group": 63
+     },
+     {
+        "teamid": 4,
+        "name1": "Andris Graudiņš",
+        "name2": "Otto Bricis",
+        "team": "Smilšu Racēji",
+        "group": 34
+      },  
+      {
+        "teamid": 5,
+        "name1": "Andris Graudiņš",
+        "name2": "Otto Bricis",
+        "team": "Smilšu Racēji",
+        "group": 34
+      }     
+]
