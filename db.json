@@ -1,8 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "teamid": 1,
+      "name1": "Jurģis Dudelis", 
+      "name2": "Jānis Dudelis", 
+      "team": "Aha", 
+      "group": 34 
     }
   ],
   "profile": {
